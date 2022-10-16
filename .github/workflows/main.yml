@@ -7,7 +7,10 @@ jobs:
     name: shalzz/zola-deploy-action
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@master
+    - name: Checkout repository and submodules
+      uses: actions/checkout@master
+      with:
+        submodules: recursive
     - run: curl -s -L https://github.com/getzola/zola/releases/download/v0.15.3/zola-v0.15.3-x86_64-unknown-linux-gnu.tar.gz | sudo tar xvzf - -C /usr/local/bin
     - run: zola build
     - uses: jakejarvis/s3-sync-action@master
