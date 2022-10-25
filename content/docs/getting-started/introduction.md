@@ -1,6 +1,6 @@
 +++
 title = "Introduction"
-description = "AdiDoks is a Zola theme helping you build modern documentation websites, which is a port of the Hugo theme Doks for Zola."
+description = "RoQR is a modern, open-source, privacy-respecting QR service. Learn how to use RoQR:"
 date = 2021-05-01T08:00:00+00:00
 updated = 2021-05-01T08:00:00+00:00
 draft = false
@@ -9,7 +9,7 @@ sort_by = "weight"
 template = "docs/page.html"
 
 [extra]
-lead = 'AdiDoks is a Zola theme helping you build modern documentation websites, which is a port of the Hugo theme <a href="https://github.com/h-enk/doks">Doks</a> for Zola.'
+lead = 'RoQR is a modern, open-source, privacy-respecting QR service. Learn how to use RoQR:'
 toc = true
 top = false
 +++
@@ -20,7 +20,7 @@ Get up and running with RoQR in minutes. [Quick Start →](../quick-start/)
 
 ## Guides
 
-Detailed guides for getting the most out of the RoQR platform. [Guides →](../guides/)
+Detailed guides for getting the most out of the RoQR platform. [Guides →](../../guides/)
 
 ## API Documentation
 

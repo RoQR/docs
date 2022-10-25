@@ -7,4 +7,9 @@ template = "docs/section.html"
 sort_by = "weight"
 weight = 2
 draft = false
+
+[extra]
+lead = "Detailed guides for getting things done using RoQR's platform"
+toc = true
+top = false
 +++

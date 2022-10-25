@@ -1,15 +1,15 @@
 +++
-title = "Modern Documentation Theme"
+title = "QR codes that will rock your world"
 
 
 # The homepage contents
 [extra]
-lead = '<b>AdiDoks</b> is a modern documentation theme, which is a port of the Hugo theme <a href="https://github.com/h-enk/">Doks</a> for Zola.'
+lead = '<b>RoQR</b> gives you all the tools to shred your QR campaign.'
 url = "/docs/getting-started/introduction/"
 url_button = "Get started"
 repo_version = "GitHub v0.1.0"
-repo_license = "Open-source MIT License."
-repo_url = "https://github.com/aaranxu/adidoks"
+repo_license = "Open-source AGPL License."
+repo_url = "https://github.com/roqr/roqr"
 
 # Menu items
 [[extra.menu.main]]
@@ -25,27 +25,26 @@ url = "/blog/"
 weight = 20
 
 [[extra.list]]
-title = "Security aware"
-content = 'Get A+ scores on <a href="https://observatory.mozilla.org/analyze/adidoks.org">Mozilla Observatory</a> out of the box. Easily change the default Security Headers to suit your needs.'
+title = "Dynamic QR codes"
+content = "QR codes that update on your schedule, allowing you to route users exactly as you see fit."
 
 [[extra.list]]
-title = "Fast by default ⚡️"
-content = 'Get 100 scores on <a href="https://googlechrome.github.io/lighthouse/viewer/?gist=7731347bb8ce999eff7428a8e763b637">Google Lighthouse</a> by default. Doks removes unused css, prefetches links, and lazy loads images.'
+title = "Scan log"
+content = "A complete log so you know who scanned your QR codes when."
 
 [[extra.list]]
-title = "SEO-ready"
-content = "Use sensible defaults for structured data, open graph, and Twitter cards. Or easily change the SEO settings to your liking."
+title = "API"
+content = "A modern API that lets you generate and manage links on the fly."
 
 [[extra.list]]
-title = "Full text search"
-content = "Search your Doks site with FlexSearch. Easily customize index settings and search options to your liking."
+title = "Data export"
+content = "Export your data for further analysis and insights."
 
 [[extra.list]]
-title = "Page layouts"
-content = "Build pages with a landing page, blog, or documentation layout. Add custom sections and components to suit your needs."
+title = "Password-protected links"
+content = "Protect your links with passwords to keep your data secure."
 
 [[extra.list]]
-title = "Dark mode"
-content = "Switch to a low-light UI with the click of a button. Change colors with variables to match your branding."
-
+title = "Styles and templates"
+content = "Make your QR codes your own through various styles, colors and saveable templates."
 +++
