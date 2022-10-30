@@ -33,4 +33,6 @@ Change the dots shape field to extra-rounded to reflect Facebook's rounded desig
 
 Finally, fill the image URL field with the URL `https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/1920px-Facebook_f_logo_%282021%29.svg.png` to add the Facebook logo to the center of the QR code.
 
-{{ resize_image(path="docs/guides/creating-a-style/facebook_style.png", height=0, width=695, op="fit_width") }}
+<a href="./facebook_style.png" target="_blank">
+    <img style="max-width: 100%" src="./facebook_style.png" />
+</a>
