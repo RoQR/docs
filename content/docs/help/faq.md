@@ -14,26 +14,10 @@ toc = true
 top = false
 +++
 
-## What is the AdiDoks?
+## What's the difference between static and dynamic QR codes?
+A code can be either static or dynamic. A static code encodes data directly into the QR code, meaning that users who scan your code will be served the data without going through RoQR's servers. This means that no statistics regarding the scans of the code can be seen on the platform. Since a static code encodes the data into the QR code directly, any changes to the code's data will mean that the QR code also changes.
 
-AdiDoks is a Zola theme for Documentation's sites, ported by the Hugo Theme
-[Doks](https://getdoks.org), which is a pretty nice theme. Thanks a lot to 
-[*h-enk*](https://github.com/h-enk), the creator of the [Doks](https://getdoks.org).
+Conversely, a dynamic code can be updated without changing the QR code, and scans of the code will route the users through the RoQR platform before redirecting them to the code target, meaning that statistics about the scans are accessible through RoQR. A dynamic code can also be protected behind a password, prompting users to enter the password before being redirected to the code's data.
 
-## Keyboard shortcuts for search?
-
-- focus: `/`
-- select: `↓` and `↑`
-- open: `Enter`
-- close: `Esc`
-
-## Other documentation?
-
-- [Netlify](https://docs.netlify.com/)
-- [Zola](https://www.getzola.org/documentation/getting-started/overview/)
-
-## Contact the creator?
-
-Send *Aaran Xu* an E-mail:
-
-- <aaranxu@outlook.com>
+## Why do some rows on the Insights page appear blank?
+RoQR 

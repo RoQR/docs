@@ -1,5 +1,5 @@
 +++
-title = "Quick Start"
+title = "Quick start"
 description = "Get up and running with RoQR"
 date = 2022-10-16
 updated = 2022-10-16

@@ -14,22 +14,22 @@ toc = true
 top = false
 +++
 
-## Quick Start
+## Quick start
 
-Get up and running with RoQR in minutes. [Quick Start →](../quick-start/)
+Get up and running with RoQR in minutes. [Quick start →](../quick-start/)
 
 ## Guides
 
-Detailed guides for getting the most out of the RoQR platform. [Guides →](../../guides/)
+In-depth guides for getting the most out of the RoQR platform. [Guides →](../../guides/)
 
-## API Documentation
+## Reference
+
+Detailed reference of various concepts related to the RoQR platform. [Reference →](../../reference/)
+
+## API reference
 
 Coming soon.
 
-## Contributing
-
-Find out how to contribute to Doks. [Contributing →](../../contributing/how-to-contribute/)
-
 ## Help
 
-Get help on Doks. [Help →](../../help/faq/)
+Get help on RoQR. [Help →](../../help/faq/)
