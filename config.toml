@@ -101,3 +101,8 @@ info = 'Documentation powered by <a href="https://www.getzola.org/">Zola</a> and
 name = "Terms of Service"
 url = "/terms-of-service"
 weight = 10
+
+[[extra.footer.nav]]
+name = "Privacy Policy"
+url = "/privacy-policy"
+weight = 10
