@@ -29,8 +29,8 @@ All of these behaviors are defined within the link settings.
     <dd>A link can be either static or dynamic. A static link encodes data directly into the QR code, meaning that users who scan your code will be served the data without going through RoQR's servers. This means that no statistics regarding the scans of the link can be seen on the platform. Since a static link encodes the data into the QR code directly, any changes to the link's data will mean that the QR code also changes. Conversely, a dynamic code can be updated without changing the QR code, and scans of the code will route the users through the RoQR platform before redirecting them to the link target, meaning that statistics about the scans are accessible through RoQR.</dd>
     <dt>Password (optional)</dt>
     <dd>Dynamic links can be password-protected. If a user scans a password-protected link, they will be prompted to enter the password before being redirected to the link data.</dd>
-    <dt>Style</dt>
-    <dd>The s</dd>
+    <dt>Style (optional)</dt>
+    <dd>The predifined style to use in styling the QR code. If no style is selected, the code will be generated using a standard black-and-white format.</dd>
 </dl>
 
 ## Link types
@@ -141,5 +141,3 @@ Links to a contact that can be imported into an address book. When scanned, the 
     <dt>Note (optional)</dt>
     <dd>A free-form note to associate with the contact.</dd>
 </dl>
-
-
