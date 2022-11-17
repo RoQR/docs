@@ -20,8 +20,10 @@ Styles let you create reusable visual designs for your QR codes.
 <dl>
     <dt>Name</dt>
     <dd>A unique name to identify the style. This name is used when selecting which style to apply to a link.</dd>
+    <dt>Transparent background</dt>
+    <dd>Whether the background of the QR code should be transparent. This setting overrides the "background color" setting.</dd>
     <dt>Background color</dt>
-    <dd>The color to apply to the background of the QR code.</dd>
+    <dd>The color to apply to the background of the QR code. Ignored if "transparent background" is selected.</dd>
     <dt>Dots color</dt>
     <dd>The color to apply to all the "dots" in the QR code. By default, this color will also apply to the corner squares and corner dots color.</dd>
     <dt>Dots shape</dt>
