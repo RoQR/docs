@@ -24,6 +24,12 @@ section = "blog"
 url = "/blog/"
 weight = 20
 
+[[extra.menu.main]]
+name = "Roadmap"
+section = "roadmap"
+url = "/roadmap/"
+weight = 30
+
 [[extra.list]]
 title = "Dynamic QR codes"
 content = "QR codes that update on your schedule, allowing you to route users exactly as you see fit."

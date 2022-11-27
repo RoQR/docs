@@ -51,7 +51,7 @@ theme_color = "#fff"
 
 # More about site's title
 title_separator = "|"  # set as |, -, _, etc
-title_addition = "Modern Documentation Theme"
+title_addition = "RoQR"
 
 
 # Set date format in blog publish metadata
@@ -85,6 +85,12 @@ name = "Blog"
 section = "blog"
 url = "/blog/"
 weight = 20
+
+[[extra.menu.main]]
+name = "Roadmap"
+section = "roadmap"
+url = "/roadmap"
+weight = 30
 
 [[extra.menu.social]]
 name = "GitHub"
