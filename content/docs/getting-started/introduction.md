@@ -32,4 +32,4 @@ Coming soon.
 
 ## Help
 
-Get help on RoQR. [Help →](../../help/faq/)
+Get help on RoQR. [Help →](../../help/)
