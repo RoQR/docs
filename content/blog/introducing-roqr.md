@@ -3,7 +3,7 @@ title = "Mic check: Introducing RoQR"
 description = "Introducing RoQR, a modern, open, privacy-respecting and affordable platform for dynamic QR codes."
 date = 2022-11-29T00:00:00-05:00
 updated = 2022-11-29T00:00:00-05:00
-draft = true
+draft = false
 template = "blog/page.html"
 
 [taxonomies]
