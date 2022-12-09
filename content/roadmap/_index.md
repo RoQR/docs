@@ -25,6 +25,3 @@ Change the underlying URL of your QR codes from https://roqr.app to one of your 
 
 ### Frames
 Add a frame around your QR code, with a call-to-action such as "Scan Me".
-
-### Custom domains
-Change the underlying URL of your QR codes from https://roqr.app to one of your choosing, such as https://qr.yourdomain.com.
