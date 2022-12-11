@@ -20,8 +20,5 @@ Send a webhook to a URL to react to events on the platform. This can be used to 
 ### Gradients
 Add even more flair to your QR codes with gradient colors.
 
-### Custom domains
-Change the underlying URL of your QR codes from https://roqr.app to one of your choosing, such as https://qr.yourdomain.com.
-
 ### Frames
 Add a frame around your QR code, with a call-to-action such as "Scan Me".
