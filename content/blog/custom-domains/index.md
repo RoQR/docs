@@ -2,7 +2,7 @@
 title = "New feature: Custom domains"
 description = "We're excited to announce the release of 'Custom Domains' – a new feature that allows users to add a custom domain to their organization and use it as a base for their QR codes."
 date = 2022-12-11T00:00:00-05:00
-updated = 2022-12-11T00:00:00-05:00
+updated = 2022-12-12T00:00:00-05:00
 draft = false
 template = "blog/page.html"
 
@@ -15,7 +15,9 @@ lead = "We're excited to announce the release of 'Custom Domains' – a new feat
 
 ## Custom Domains
 
-
+<a href="./custom-domains.png" target="_blank">
+    <img style="max-width: 100%" src="./custom-domains.png" />
+</a>
 
 When you create a dynamic QR code on our platform, traditionally the codes have encoded a link in the format `https://roqr.app/links/:id/scan`. This sends any scanner of your codes to our servers, which record some metadata related to the scan and then redirect the scanner to your configured target. However, some scanners will surface this link to the scanner, which can lead to confusion if they did not expect to see a link to the `roqr.app` domain.
 
